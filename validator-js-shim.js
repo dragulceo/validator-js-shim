@@ -4,7 +4,7 @@ define('validator-js', [], function() {
   "use strict";
 
   return {
-    'default': validator
+    'default': window.validator || window.module.exports
   };
 });
 })();
