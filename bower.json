@@ -1,13 +1,12 @@
 {
   "name": "validator-js-shim",
   "main": [
-    "validator-js-shim.js",
+    "validator-js-shim.js"
   ],
   "version": "0.0.1",
   "homepage": "https://github.com/dragulceo/validator-js-shim",
-
   "authors": [
-    
+    "dragulceo <dragulceo@gmail.com>"
   ],
   "license": "MIT",
   "ignore": [
